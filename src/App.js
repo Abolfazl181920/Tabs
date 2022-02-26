@@ -1,10 +1,11 @@
 import React from 'react';
+import Tabs from './Tabs';
 
 const App = () => {
     return (
-        <div>
-            App
-        </div>
+        <>
+            <Tabs />
+        </>
     );
 }
 
